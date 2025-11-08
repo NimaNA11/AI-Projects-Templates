@@ -177,8 +177,8 @@ This repository contains **9 battle-tested Jupyter notebook templates** covering
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-project-templates.git
-cd ai-project-templates
+git clone https://github.com/yourusername/ai-projects-templates.git
+cd ai-projects-templates
 ```
 
 ### 2. Create Virtual Environment
@@ -363,7 +363,7 @@ output = trainer.generate("Explain quantum computing")
 ## 📁 Project Structure
 
 ```
-ai-project-templates/
+ai-projects-templates/
 ├── templates/
 │   ├── 01_nlp_classification.ipynb
 │   ├── 02_cv_object_detection.ipynb
@@ -447,8 +447,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md).
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/ai-project-templates.git
-cd ai-project-templates
+git clone https://github.com/NimaNA11/ai-projects-templates.git
+cd ai-projects-templates
 
 # Create branch
 git checkout -b feature/your-feature
@@ -506,7 +506,7 @@ Projects built with these templates:
 - **ForecastPro**: Financial time series prediction platform
 - **DocuChat**: Enterprise document Q&A system
 
-[Submit your project](https://github.com/yourusername/ai-project-templates/issues/new?template=showcase.md)
+[Submit your project](https://github.com/NimaNA11/ai-projects-templates/issues/new?template=showcase.md)
 
 ---
 
@@ -556,15 +556,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-project-templates&type=Date)](https://star-history.com/#yourusername/ai-project-templates&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NimaNA11/ai-projects-templates&type=Date)](https://star-history.com/#NimaNA11/ai-projects-templates&Date)
 
 ---
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-project-templates?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-project-templates?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/ai-project-templates?style=social)
+![GitHub stars](https://img.shields.io/github/stars/NimaNA11/ai-projects-templates?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NimaNA11/ai-projects-templates?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/NimaNA11/ai-projects-templates?style=social)
 
 ---
 
@@ -572,6 +572,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by AI Specialists for AI Enthusiasts**
 
-[⬆ Back to Top](#-ai-project-templates-collection)
+[⬆ Back to Top](#-ai-projects-templates-collection)
 
 </div>
